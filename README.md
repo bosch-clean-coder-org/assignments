@@ -10,8 +10,8 @@ you will get a repo of your own. Notice failing GitHub Actions.
 
 Go ahead and fix them on the main branch itself. Have fun :)
 
-[C](https://classroom.github.com/a/bjgk-Zih) |
-[C++](https://classroom.github.com/a/tg9I6Yz4) |
-[C#](https://classroom.github.com/a/g993CqCP) |
-[Java](https://classroom.github.com/a/Z5oDA2Z0) |
-[Python](https://classroom.github.com/a/V-D8WT56)
+[C](https://classroom.github.com/a/Cyka3yor) |
+[C++](https://classroom.github.com/a/kobUfL-C) |
+[C#](https://classroom.github.com/a/rIQEfvFz) |
+[Java](https://classroom.github.com/a/5na6voQ8) |
+[Python](https://classroom.github.com/a/OkQcy-xX)
